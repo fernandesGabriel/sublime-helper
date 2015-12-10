@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"CodeFormatter",
+		"ColorPicker",
+		"Emmet",
+		"Emmet Css Snippets",
+		"HTML5",
+		"JSONLint",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SublimeLinter",
+		"Syntax Highlighting for Sass",
+		"DocBlockr",
+		"Prefixr",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeCodeIntel",
+		"SublimeLinter"
+	]
+}
